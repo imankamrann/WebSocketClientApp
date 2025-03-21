@@ -11,6 +11,7 @@ import SwiftUI
 struct WebSocketClientAppApp: App {
     var body: some Scene {
         WindowGroup {
+//            WebSocketClientView()
             ContentView()
         }
     }
